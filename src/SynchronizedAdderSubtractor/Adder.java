@@ -1,4 +1,4 @@
-package AdderSubtractor;
+package SynchronizedAdderSubtractor;
 
 public class Adder implements Runnable{
     Count count;
@@ -10,7 +10,10 @@ public class Adder implements Runnable{
     public void run() {
         for (int i = 1; i <= 5000; i++) {
             // Lock here
-            count.value += i;
+//            synchronized (count) {
+                count.incrementValue(i);
+//            }
+
             // Unlock here
         }
     }
