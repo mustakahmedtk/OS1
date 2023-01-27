@@ -8,9 +8,9 @@ public class Subtractor implements Runnable{
 
     @Override
     public void run() {
-        for (int i = 1; i <= 5000; i++) {
+        for (int i = 1; i <= 7000; i++) {
             // Lock here
-            count.value -= i;
+            count.value.addAndGet(-i);
             // Unlock
         }
     }

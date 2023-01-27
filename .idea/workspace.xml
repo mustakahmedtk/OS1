@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfcffd3e-8f9a-4258-97a9-4aff7aadc8a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LockAdderSubtractor/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LockAdderSubtractor/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LockAdderSubtractor/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LockAdderSubtractor/Subtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SynchronizedAdderSubtractor/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SynchronizedAdderSubtractor/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SynchronizedAdderSubtractor/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SynchronizedAdderSubtractor/Subtractor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProducerConsumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProducerConsumer/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProducerConsumer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProducerConsumer/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProducerConsumer/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProducerConsumer/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdderSubtractor/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdderSubtractor/Adder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdderSubtractor/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdderSubtractor/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdderSubtractor/Subtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdderSubtractor/Subtractor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +45,7 @@
       <recent name="$PROJECT_DIR$/src/LockAdderSubtractor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Store">
+  <component name="RunManager" selected="Application.AdderSubtractor.Client">
     <configuration name="AdderSubtractor.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdderSubtractor.Client" />
       <module name="Threads1" />
@@ -121,10 +113,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdderSubtractor.Client" />
         <item itemvalue="Application.Store" />
         <item itemvalue="Application.SynchronizedAdderSubtractor.Client" />
         <item itemvalue="Application.LockAdderSubtractor.Client" />
-        <item itemvalue="Application.AdderSubtractor.Client" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
