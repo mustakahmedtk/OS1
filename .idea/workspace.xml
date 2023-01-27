@@ -6,16 +6,14 @@
       <change afterPath="$PROJECT_DIR$/src/LockAdderSubtractor/Client.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LockAdderSubtractor/Count.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LockAdderSubtractor/Subtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProducerConsumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProducerConsumer/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProducerConsumer/Store.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SynchronizedAdderSubtractor/Adder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SynchronizedAdderSubtractor/Client.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SynchronizedAdderSubtractor/Count.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SynchronizedAdderSubtractor/Subtractor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderSubtractor/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdderSubtractor/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdderSubtractor/Subtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdderSubtractor/Subtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProducerConsumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProducerConsumer/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProducerConsumer/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProducerConsumer/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProducerConsumer/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProducerConsumer/Store.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +39,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/rahulgrover/IdeaProjects/Threads1/src/SynchronizedAdderSubtractor",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rahulgrover/IdeaProjects/Threads1/src/SynchronizedAdderSubtractor&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/SynchronizedAdderSubtractor" />
